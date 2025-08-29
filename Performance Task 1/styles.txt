@@ -1,0 +1,11 @@
+# Color Schemes
+
+- #463F1A
+- #60492C
+- #F9EBE0
+- #429DBB
+- #0D2149
+
+# Text Sources
+
+- https://www.dnaftb.org/1/bio.html

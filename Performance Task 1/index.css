@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', 'Arial', sans-serif;
+}
+
+.logo {
+    font-family: 'Merriweather', 'Arial', sans-serif;
+    font-style: italic;
+    color: #429DBB;
+}
+
+#classification {
+    background-color: #429DBB !important;
+}
+
+#time {
+    background-color: #5D4A66 !important;
+}
+
+#featured {
+    background-color: #D72638 !important;
+}
+
+p {
+    text-indent: 3%;
+    font-size: 0.9rem;
+}
+
+p::selection {
+    background-color: #F9EBE0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', 'Arial', sans-serif;
+}
+
+nav {
+    position: sticky !important;
+    top: 0;
+    z-index: auto;
+}
+
+img {
+    box-shadow: 0.5rem 0.5rem 1rem #0D2149;
+}
